@@ -1,0 +1,54 @@
+.bar {
+    width: 50%;
+    height: 10px;
+    border-radius: 10px;
+    background-color: #b3b3b3;
+    color: white;
+    text-align: center;
+}
+
+.fifty {
+    width: 50%;
+    height: 100%;
+   margin-right: 2px;
+    float: left;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.inn {
+    width: 100%;
+    height: 100%;
+    background-color:green;
+    float: left;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.twentyfive {
+    width: 25%;
+    height: 100%;
+    margin-right: 2px;
+    float: left;
+}
+.inn1{
+    width: 100%;
+    height: 100%;
+    background-color: navy;
+    float: left;
+    border-radius: 10px;
+}
+.inn2{
+    width: 100%;
+    height: 100%;
+    background-color: blanchedalmond;
+    float: left;
+    border-radius: 10px;
+}
+.ten {
+    width: 15%;
+    height: 100%;
+    margin-right: 2px;
+    float: left;
+}
